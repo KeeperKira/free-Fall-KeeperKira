@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475640341 source:/home/keeper/Programming/CodeBlock/start/main.cpp
+	<GL/glut.h>
+	<iostream>
+
