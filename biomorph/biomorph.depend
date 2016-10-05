@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475561660 source:/home/keeper/Programming/CodeBlock/biomorph/main.cpp
+	<cmath>
+	<GL/glut.h>
+
+1475562767 source:/run/user/1000/gvfs/smb-share:server=server,share=общая/!!!Обменник!!!/Обмен/ЮРА/biomorph/main.cpp
+	<cmath>
+	<GL/glut.h>
+
